@@ -1,5 +1,5 @@
 name: Continuous Deployment
-
+# TODO: update this with wasm-pack
 on:
   push:
     tags:
